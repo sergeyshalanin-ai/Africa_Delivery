@@ -33,9 +33,9 @@ Scope
 | Backend Engineer   | 2          |
 | Frontend Engineer  | 1          |
 | DevOps / SRE       | 1          |
-| Data Engineer      | 1          |
-| Product Manager    | 1          |
 | QA                 | 1          |
+| Mobile Engineer    | 1          |
+
 
 Инфраструктурная стоимость
 | Статья                       | Оценка                |
@@ -75,14 +75,11 @@ Scope
 | ------------------ | ---------- |
 | CTO                | 1          |
 | Solution Architect | 1          |
-| Backend Engineer   | 4          |
-| Frontend Engineer  | 2          |
-| Mobile Engineer    | 1          |
+| Backend Engineer   | 2          |
+| Frontend Engineer  | 1          |
 | DevOps / SRE       | 1          |
-| Data Engineer      | 1          |
-| Product Manager    | 1          |
-| Designer           | 1          |
-| QA                 | 2          |
+| QA                 | 1          |
+| Mobile Engineer    | 1          |
 
 Инфраструктурная стоимость
 | Статья                       | Оценка                |
@@ -122,28 +119,23 @@ Scope
 | ------------------ | ---------- |
 | CTO                | 1          |
 | Solution Architect | 1          |
-| Backend Engineer   | 5          |
-| Frontend Engineer  | 2          |
+| Backend Engineer   | 2          |
+| Frontend Engineer  | 1          |
+| DevOps / SRE       | 1          |
 | Mobile Engineer    | 1          |
-| DevOps / SRE       | 2          |
-| Data Engineer      | 2          |
-| Security Engineer  | 1          |
-| Product Manager    | 1          |
-| Designer           | 1          |
-| QA                 | 3          |
-| Legal / Compliance | 1          |
+| QA                 | 1          |
 
 Инфраструктурная стоимость
 
 | Статья                       | Оценка                |
 | ---------------------------- | --------------------- |
-| AWS af-south-1 control plane | $500–$1 000 / месяц   |
-| Nigerian Data Zone           | $800–$1 600 / месяц   |
-| Kenyan Data Zone             | $800–$1 600 / месяц   |
-| Observability                | $300–$800 / месяц     |
-| CI/CD                        | $150–$350 / месяц     |
-| Security services            | $300–$800 / месяц     |
-| Итого                        | $2 850–$6 150 / месяц |
+| AWS af-south-1 control plane | $500–$800 / месяц   |
+| Nigerian Data Zone           | $800–$1 200 / месяц   |
+| Kenyan Data Zone             | $800–$1 200 / месяц   |
+| Observability                | $300–$600 / месяц     |
+| CI/CD                        | $150–$300 / месяц     |
+| Security services            | $300–$600 / месяц     |
+| Итого                        | $2 850–$4 700 / месяц |
 
 4 - запуск
 Scope
@@ -169,25 +161,21 @@ Scope
 | ------------------ | ---------- |
 | CTO                | 1          |
 | Solution Architect | 1          |
-| Backend Engineer   | 5          |
-| Frontend Engineer  | 2          |
+| Backend Engineer   | 2          |
+| Frontend Engineer  | 1          |
+| DevOps / SRE       | 1          |
+| QA                 | 1          |
 | Mobile Engineer    | 1          |
-| DevOps / SRE       | 2          |
-| Data Engineer      | 2          |
-| Security Engineer  | 1          |
-| Product Manager    | 1          |
-| Designer           | 1          |
-| QA                 | 3          |
-| Customer Support   | 2          |
-| Legal / Compliance | 1          |
+
+
 
 Инфраструктурная стоимость
 | Статья                       | Оценка                |
 | ---------------------------- | --------------------- |
-| AWS af-south-1 control plane | $600–$1 200 / месяц   |
-| Nigerian Data Zone           | $1 000–$2 000 / месяц |
-| Kenyan Data Zone             | $1 000–$2 000 / месяц |
-| Observability                | $400–$1 000 / месяц   |
+| AWS af-south-1 control plane | $600–$1 000 / месяц   |
+| Nigerian Data Zone           | $1 000–$1 200 / месяц |
+| Kenyan Data Zone             | $1 000–$1 200 / месяц |
+| Observability                | $400–$600 / месяц   |
 | CI/CD                        | $200–$400 / месяц     |
-| Security services            | $400–$1 000 / месяц   |
-| Итого                        | $3 600–$7 600 / месяц |
+| Security services            | $400–$600 / месяц   |
+| Итого                        | $3 600–$5 000 / месяц |
